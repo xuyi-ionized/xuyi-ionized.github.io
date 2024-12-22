@@ -1,0 +1,32 @@
+.. Yi Xu's Homepage index file, created by `ablog start` on Sat Jun 29 22:59:49 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Yi Xu's Homepage!
+============================
+
+I'm a Ph.D. student at the University of Tokyo studying observational astronomy and galaxy evolution.
+Find more about me here: :ref:`about` (TBA) or check out my `CV <_static/CV_v3.pdf>`_
+
+Contact: xuyi -at- icrr.u-tokyo.ac.jp.
+
+.. Here is a list of most recent posts:
+
+.. .. postlist:: 5
+   :excerpts:
+
+
+.. `toctree` directive, below, contains list of non-post `.rst` files.
+   This is how they appear in Navigation sidebar. Note that directive
+   also contains `:hidden:` option so that it is not included inside the page.
+
+   Posts are excluded from this directive so that they aren't double listed
+   in the sidebar both under Navigation and Recent Posts.
+
+.. toctree::
+   :hidden:
+
+   about
+   research/index
+   birds/index
+

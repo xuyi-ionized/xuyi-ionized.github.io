@@ -1,0 +1,19 @@
+
+.. posts regarding birds
+
+.. post:: Dec 22, 2024
+   :author: Yi Xu
+   :tags: index
+
+Birdwatching
+============
+
+Here I will post my birdwatching experience.
+
+Illustrated book for currently seen birds: :ref:`bird_list`.
+
+Birdwatching trip notes:
+
+.. postlist:: 
+    :tags: bird
+    :sort:

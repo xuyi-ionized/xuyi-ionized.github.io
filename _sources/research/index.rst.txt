@@ -1,0 +1,10 @@
+.. posts regarding astronomy research
+
+.. post:: Dec 22, 2024
+   :tags: index
+   :author: Yi Xu
+
+Research
+========
+
+Stuff regarding astronomy research
