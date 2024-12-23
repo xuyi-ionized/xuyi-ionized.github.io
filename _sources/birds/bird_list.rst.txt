@@ -48,7 +48,7 @@ Common pochard 红头潜鸭 ホシハジロ
 Great cormorant 普通鸬鹚 カワウ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: /_static/birds/cormorant_20241201.JPG
+.. image:: /_static/birds/cormorant_20241221.JPG
 
 Great crested grebe 凤头䴙䴘 カンムリカイツブリ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
