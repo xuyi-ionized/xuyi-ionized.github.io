@@ -1,7 +1,99 @@
 .. post:: Dec 21, 2024
     :tags: bird
-    :category: bridwatching_notes
+    :category: birdwatching_notes
 
 Ukima Park
 ==========
-TBA
+目击：骨顶鸡，普通鸬鹚，绣眼鸟
+
+Great tit 大山雀 シジュウカラ
+------------------------------------------
+
+.. image:: /_static/birds/tit_20241221.jpg
+
+Brown-eared bulbul 栗耳短脚鹎 ヒヨドリ
+---------------------------------------------
+
+.. image:: /_static/birds/bulbul_20241221.jpg
+
+Azure-winged magpie 灰喜鹊 オナガ
+---------------------------------------------
+
+.. image:: /_static/birds/magpie_20241201.jpg
+
+White-cheeked starling 灰椋鸟 ムクドリ
+-----------------------------------------------
+
+.. image:: /_static/birds/starling_20241221.jpg
+
+Little egret 小白鹭 コサギ
+--------------------------------------------
+
+.. image:: /_static/birds/egret_20241221.jpg
+
+Grey heron 苍鹭 アオサギ
+--------------------------------------------
+
+.. image:: /_static/birds/heron_20241221.jpg
+
+Black-crowned night heron 夜鹭 ゴイサギ
+--------------------------------------------------
+
+.. image:: /_static/birds/night_heron_20241221.jpg
+
+
+亚成鸟:
+
+.. image:: /_static/birds/night_heron2_20241221.jpg
+
+Common moorhen 黑水鸡 バン
+----------------------------------------------
+
+.. image:: /_static/birds/moorhen_20241221.jpg
+
+Little grebe 小䴙䴘 カイツブリ
+--------------------------------------------
+
+.. image:: /_static/birds/grebe_20241221.jpg
+
+Northern pintail 针尾鸭 オナガガモ
+----------------------------------------------
+
+.. image:: /_static/birds/pintail_20241221.jpg
+
+Tufted duck 凤头潜鸭 キンクロハジロ
+---------------------------------------------
+下:
+
+.. image:: /_static/birds/tufted_20241221.jpg
+
+
+雌性:
+
+.. image:: /_static/birds/tufted2_20241221.jpg
+
+Common pochard 红头潜鸭 ホシハジロ
+----------------------------------------------
+
+.. image:: /_static/birds/pochard_20241221.jpg
+
+Rock dove 原鸽 カワラバト
+-------------------------------------------
+
+.. image:: /_static/birds/dove_20241221.jpg
+
+
+白化 Leucism:
+
+.. image:: /_static/birds/dove2_20241221.jpg 
+
+Oriental turtle dove 山斑鸠 キジバト
+--------------------------------------------------
+
+.. image:: /_static/birds/turtle_dove_20241221.jpg
+
+
+Vega gull 织女银鸥 セグロカモメ
+-------------------------------------------
+
+.. image:: /_static/birds/gull_20241221.jpg

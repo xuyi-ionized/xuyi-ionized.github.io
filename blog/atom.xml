@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xuyi-ionized.github.io/</id>
   <title>Yi Xu's Homepage Blog</title>
-  <updated>2024-12-22T15:33:14.089884+00:00</updated>
+  <updated>2024-12-23T04:53:22.103372+00:00</updated>
   <link href="https://xuyi-ionized.github.io/"/>
   <link href="https://xuyi-ionized.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.io/" version="0.11.10">ABlog</generator>
@@ -51,11 +51,11 @@
     <id>https://xuyi-ionized.github.io/birds/ukima_park_20241221/</id>
     <title>Ukima Park</title>
     <updated>2024-12-21T00:00:00+09:00</updated>
-    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;TBA&lt;/p&gt;
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;目击：骨顶鸡，普通鸬鹚，绣眼鸟&lt;/p&gt;
 &lt;/p&gt;
 </content>
     <link href="https://xuyi-ionized.github.io/birds/ukima_park_20241221/"/>
-    <summary>TBA</summary>
+    <summary>目击：骨顶鸡，普通鸬鹚，绣眼鸟</summary>
     <category term="bird" label="bird"/>
     <published>2024-12-21T00:00:00+09:00</published>
   </entry>
@@ -63,11 +63,11 @@
     <id>https://xuyi-ionized.github.io/birds/kasai_rinkai_park_20241214/</id>
     <title>Kasai Rinkai Park</title>
     <updated>2024-12-14T00:00:00+09:00</updated>
-    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;TBA&lt;/p&gt;
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;目击： 绿翅鸭 红头潜鸭 斑嘴鸭 白骨顶 矶鹬 灰鹭 海鸥 绣眼鸟 鸬鹚 栗耳短脚鹎（？）鹗（？）&lt;/p&gt;
 &lt;/p&gt;
 </content>
     <link href="https://xuyi-ionized.github.io/birds/kasai_rinkai_park_20241214/"/>
-    <summary>TBA</summary>
+    <summary>目击： 绿翅鸭 红头潜鸭 斑嘴鸭 白骨顶 矶鹬 灰鹭 海鸥 绣眼鸟 鸬鹚 栗耳短脚鹎（？）鹗（？）</summary>
     <category term="bird" label="bird"/>
     <published>2024-12-14T00:00:00+09:00</published>
   </entry>
@@ -75,11 +75,11 @@
     <id>https://xuyi-ionized.github.io/birds/tokyo_wild_bird_park_20241201/</id>
     <title>Tokyo Wild Bird Park</title>
     <updated>2024-12-01T00:00:00+09:00</updated>
-    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;TBA&lt;/p&gt;
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;左2 红头潜鸭, 左4 凤头潜鸭&lt;/p&gt;
 &lt;/p&gt;
 </content>
     <link href="https://xuyi-ionized.github.io/birds/tokyo_wild_bird_park_20241201/"/>
-    <summary>TBA</summary>
+    <summary>左2 红头潜鸭, 左4 凤头潜鸭</summary>
     <category term="bird" label="bird"/>
     <published>2024-12-01T00:00:00+09:00</published>
   </entry>
@@ -87,11 +87,11 @@
     <id>https://xuyi-ionized.github.io/birds/komiya_park_20241027/</id>
     <title>Komiya Park</title>
     <updated>2024-10-27T00:00:00+09:00</updated>
-    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;TBA&lt;/p&gt;
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;First birdwatching trip&lt;/p&gt;
 &lt;/p&gt;
 </content>
     <link href="https://xuyi-ionized.github.io/birds/komiya_park_20241027/"/>
-    <summary>TBA</summary>
+    <summary>First birdwatching trip</summary>
     <category term="bird" label="bird"/>
     <published>2024-10-27T00:00:00+09:00</published>
   </entry>

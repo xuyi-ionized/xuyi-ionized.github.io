@@ -1,8 +1,23 @@
 .. post:: Oct 27, 2024
     :tags: bird
-    :category: bridwatching_notes
+    :category: birdwatching_notes
 
 
 Komiya Park
 ===========
-TBA
+First birdwatching trip
+
+Brown-eared bulbul 栗耳短脚鹎 ヒヨドリ
+---------------------------------------------
+
+.. image:: /_static/birds/bulbul_20241027.jpg
+
+Chinese hwamei 画眉 ガビチョウ
+---------------------------------------------
+
+.. image:: /_static/birds/hwamei_20241027.jpg
+
+Eastern spot-billed duck 斑嘴鸭 カルガモ
+-------------------------------------------
+
+.. image:: /_static/birds/duck_20241027.JPG

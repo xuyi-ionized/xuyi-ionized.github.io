@@ -1,8 +1,75 @@
 .. post:: Dec 01, 2024
     :tags: bird
-    :category: bridwatching_notes
+    :category: birdwatching_notes
 
 
 Tokyo Wild Bird Park
 ====================
-TBA
+
+Ducks
+-----
+左2 红头潜鸭, 左4 凤头潜鸭
+
+.. image:: /_static/birds/ducks_20241201.JPG
+
+Eastern spot-billed duck 斑嘴鸭 カルガモ
+--------------------------------------------
+
+.. image:: /_static/birds/spot-billed_20241201.JPG
+
+.. image:: /_static/birds/spot-billed2_20241201.JPG
+
+Mallard 绿头鸭 マガモ
+----------------------------------------------
+
+.. image:: /_static/birds/mallard_20241201.JPG
+
+Eurasian teal 绿翅鸭 コガモ
+-------------------------------------------
+
+.. image:: /_static/birds/teal_20241201.JPG
+
+Eurasian coot 骨顶鸡 オオバン
+-------------------------------------------
+
+.. image:: /_static/birds/coot_20241201.JPG
+
+Grey heron 苍鹭 アオサギ
+--------------------------------------------
+
+.. image:: /_static/birds/heron_20241201.JPG
+
+Common kingfisher 普通翠鸟 カワセミ
+-------------------------------------------------
+
+.. image:: /_static/birds/kingfisher_20241201.JPG
+
+Great cormorant 普通鸬鹚 カワウ
+------------------------------------------------
+
+.. image:: /_static/birds/cormorant_20241201.JPG
+
+Warbling white-eye 日本绣眼鸟 メジロ
+------------------------------------------------
+
+.. image:: /_static/birds/white-eye_20241201.JPG
+
+Brown-eared bulbul 栗耳短脚鹎 ヒヨドリ
+---------------------------------------------
+
+.. image:: /_static/birds/bulbul_20241201.JPG
+
+Japanese pygmy woodpecker 小星头啄木鸟 コゲラ
+-------------------------------------------------
+
+.. image:: /_static/birds/woodpecker_20241201.JPG
+
+Common sandpiper 矶鹬 イソシギ
+------------------------------------------------
+
+.. image:: /_static/birds/sandpiper_20241201.JPG
+
+Osprey 鹗 ミサゴ
+---------------------------------------------
+
+.. image:: /_static/birds/osprey_20241201.JPG
