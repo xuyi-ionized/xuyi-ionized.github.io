@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xuyi-ionized.github.io/</id>
   <title>Yi Xu's Homepage Blog</title>
-  <updated>2025-01-05T16:34:40.218784+00:00</updated>
+  <updated>2025-01-05T16:55:12.343608+00:00</updated>
   <link href="https://xuyi-ionized.github.io/"/>
   <link href="https://xuyi-ionized.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.io/" version="0.11.10">ABlog</generator>
+  <entry>
+    <id>https://xuyi-ionized.github.io/birds/yoyogi_park_20250104_test/</id>
+    <title>Yoyogi Park (lazy load test)</title>
+    <updated>2025-01-04T00:00:00+09:00</updated>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;test on lazy loading&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://xuyi-ionized.github.io/birds/yoyogi_park_20250104_test/"/>
+    <summary>test on lazy loading</summary>
+    <category term="bird" label="bird"/>
+    <published>2025-01-04T00:00:00+09:00</published>
+  </entry>
   <entry>
     <id>https://xuyi-ionized.github.io/birds/yoyogi_park_20250104/</id>
     <title>Yoyogi Park</title>

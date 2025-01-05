@@ -1,0 +1,46 @@
+.. post:: Jan 04, 2025
+    :tags: bird
+    :category: birdwatching_notes
+
+Yoyogi Park (lazy load test)
+=============================
+test on lazy loading
+
+目击：杂色山雀
+
+Great tit 大山雀 シジュウカラ
+------------------------------------------
+
+.. raw:: html
+
+   <div id="gallery">
+       <div class="photo-container">
+           <button onclick="loadPhoto('photo1', '../../_images/tit_20250104.jpg')">Load Photo</button>
+           <img id="photo1" class="photo" alt="Photo 1" style="display:none; max-width:300px;">
+       </div>
+   </div>
+
+Brown-eared bulbul 栗耳短脚鹎 ヒヨドリ
+---------------------------------------------
+吃的是花楸树（Rowan, Sorbus aucuparia）的果实
+
+.. image:: /_static/birds/bulbul_20250104.jpg
+
+.. image:: /_static/birds/bulbul2_20250104.jpg
+
+Oriental turtle dove 山斑鸠 キジバト
+--------------------------------------------------
+亚成鸟无明显颈斑
+
+.. image:: /_static/birds/turtle_dove_20250104.jpg
+
+
+.. raw:: html
+
+   <script>
+       function loadPhoto(imageId, imageUrl) {
+           const img = document.getElementById(imageId);
+           img.src = imageUrl;  // Set the image source
+           img.style.display = "block";  // Make the image visible
+       }
+   </script>
