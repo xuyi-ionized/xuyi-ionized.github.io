@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xuyi-ionized.github.io/</id>
   <title>Yi Xu's Homepage Blog</title>
-  <updated>2024-12-23T05:04:13.007517+00:00</updated>
+  <updated>2025-01-05T16:32:42.798147+00:00</updated>
   <link href="https://xuyi-ionized.github.io/"/>
   <link href="https://xuyi-ionized.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.io/" version="0.11.10">ABlog</generator>
@@ -46,6 +46,18 @@
     <summary>Here I will post my birdwatching experience.</summary>
     <category term="index" label="index"/>
     <published>2024-12-22T00:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>https://xuyi-ionized.github.io/birds/yoyogi_park_20250104/</id>
+    <title>Yoyogi Park</title>
+    <updated>2024-12-21T00:00:00+09:00</updated>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;目击：杂色山雀&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://xuyi-ionized.github.io/birds/yoyogi_park_20250104/"/>
+    <summary>目击：杂色山雀</summary>
+    <category term="bird" label="bird"/>
+    <published>2024-12-21T00:00:00+09:00</published>
   </entry>
   <entry>
     <id>https://xuyi-ionized.github.io/birds/ukima_park_20241221/</id>
