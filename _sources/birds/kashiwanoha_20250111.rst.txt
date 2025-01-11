@@ -1,0 +1,39 @@
+.. post:: Jan 11, 2025
+    :tags: bird
+    :category: birdwatching_notes
+
+Around Kashiwanoha
+==================
+目击： 斑嘴鸭 赤颈鸭 鸬鹚 小䴙䴘 栗耳短脚鹎 山斑鸠 白骨顶 
+黑水鸡 小白鹭 苍鹭 白鹡鸰 绣眼鸟 大山雀 小星头啄木鸟 灰椋鸟
+
+Japanese wagtail 日本鹡鸰 セグロセキレイ
+----------------------------------------------
+
+.. image:: /_static/birds/wagtail_20250111.JPG
+
+Long-tailed tit 北长尾山雀 エナガ
+-----------------------------------------------
+
+.. image:: /_static/birds/longtail_tit_20250111.JPG
+
+.. image:: /_static/birds/longtail_tit2_20250111.JPG
+
+.. image:: /_static/birds/longtail_tit3_20250111.JPG
+
+Varied tit 杂色山雀 ヤマガラ
+--------------------------------------
+
+.. image:: /_static/birds/varied_tit_20250111.JPG
+
+.. image:: /_static/birds/varied_tit2_20250111.JPG
+
+Great egret 大白鹭 ダイサギ
+-------------------------------------------
+
+.. image:: /_static/birds/egret_20250111.JPG
+
+Common snipe 扇尾沙锥 タシギ
+-----------------------------
+
+.. image:: /_static/birds/snipe_20250111.JPG

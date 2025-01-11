@@ -1,0 +1,37 @@
+.. post:: Jan 09, 2025
+    :tags: bird
+    :category: birdwatching_notes
+
+Hamarikyu Gardens
+==================
+浜離宮恩賜庭園
+目击：红头潜鸭 绿头鸭 鸬鹚 小䴙䴘 栗耳短脚鹎 山斑鸠 白骨顶 未知猛禽（白色腹部？）
+
+White wagtail 白鹡鸰 タイリクハクセキレイ
+------------------------------------------
+
+.. image:: /_static/birds/wagtail_20250109.JPG
+
+Vega gull 织女银鸥 セグロカモメ
+-------------------------------------------
+
+.. image:: /_static/birds/gull_20250109.JPG
+
+Greater scaup 斑背潜鸭 スズガモ
+-------------------------------------------
+
+.. image:: /_static/birds/scaup_20250109.JPG
+
+.. image:: /_static/birds/scaup2_20250109.JPG
+
+.. image:: /_static/birds/scaup3_20250109.JPG
+
+Northern shoveler 琵嘴鸭 ハシビロガモ
+-------------------------------------------
+
+.. image:: /_static/birds/shoveler_20250109.jpg
+
+红头潜鸭x白眼潜鸭 (杂交)
+-----------------------------
+
+.. image:: /_static/birds/hybrid_20250109.jpg

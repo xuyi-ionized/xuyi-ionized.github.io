@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://xuyi-ionized.github.io/</id>
   <title>Yi Xu's Homepage Blog</title>
-  <updated>2025-01-05T16:55:12.343608+00:00</updated>
+  <updated>2025-01-11T14:52:40.052452+00:00</updated>
   <link href="https://xuyi-ionized.github.io/"/>
   <link href="https://xuyi-ionized.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.io/" version="0.11.10">ABlog</generator>
+  <entry>
+    <id>https://xuyi-ionized.github.io/birds/kashiwanoha_20250111/</id>
+    <title>Around Kashiwanoha</title>
+    <updated>2025-01-11T00:00:00+09:00</updated>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;目击： 斑嘴鸭 赤颈鸭 鸬鹚 小䴙䴘 栗耳短脚鹎 山斑鸠 白骨顶
+黑水鸡 小白鹭 苍鹭 白鹡鸰 绣眼鸟 大山雀 小星头啄木鸟 灰椋鸟&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://xuyi-ionized.github.io/birds/kashiwanoha_20250111/"/>
+    <summary>目击： 斑嘴鸭 赤颈鸭 鸬鹚 小䴙䴘 栗耳短脚鹎 山斑鸠 白骨顶
+黑水鸡 小白鹭 苍鹭 白鹡鸰 绣眼鸟 大山雀 小星头啄木鸟 灰椋鸟</summary>
+    <category term="bird" label="bird"/>
+    <published>2025-01-11T00:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>https://xuyi-ionized.github.io/birds/hamarikyu_gardens_20250109/</id>
+    <title>Hamarikyu Gardens</title>
+    <updated>2025-01-09T00:00:00+09:00</updated>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;浜離宮恩賜庭園
+目击：红头潜鸭 绿头鸭 鸬鹚 小䴙䴘 栗耳短脚鹎 山斑鸠 白骨顶 未知猛禽（白色腹部？）&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://xuyi-ionized.github.io/birds/hamarikyu_gardens_20250109/"/>
+    <summary>浜離宮恩賜庭園
+目击：红头潜鸭 绿头鸭 鸬鹚 小䴙䴘 栗耳短脚鹎 山斑鸠 白骨顶 未知猛禽（白色腹部？）</summary>
+    <category term="bird" label="bird"/>
+    <published>2025-01-09T00:00:00+09:00</published>
+  </entry>
   <entry>
     <id>https://xuyi-ionized.github.io/birds/yoyogi_park_20250104_test/</id>
     <title>Yoyogi Park (lazy load test)</title>
@@ -48,7 +76,7 @@
   <entry>
     <id>https://xuyi-ionized.github.io/birds/bird_list/</id>
     <title>List of seen birds</title>
-    <updated>2024-12-22T00:00:00+09:00</updated>
+    <updated>2025-01-11T00:00:00+09:00</updated>
     <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;Currently in Tokyo area&lt;/p&gt;
 &lt;/p&gt;
 </content>

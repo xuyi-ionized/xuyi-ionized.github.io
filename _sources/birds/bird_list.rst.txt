@@ -45,6 +45,21 @@ Common pochard 红头潜鸭 ホシハジロ
 
 .. image:: /_static/birds/pochard_20241221.jpg
 
+Greater scaup 斑背潜鸭 スズガモ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /_static/birds/scaup_20250109.JPG
+
+Northern shoveler 琵嘴鸭 ハシビロガモ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /_static/birds/shoveler_20250109.jpg
+
+红头潜鸭x白眼潜鸭 (杂交) ?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /_static/birds/hybrid_20250109.jpg
+
 Great cormorant 普通鸬鹚 カワウ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -58,12 +73,12 @@ Great crested grebe 凤头䴙䴘 カンムリカイツブリ
 Little grebe 小䴙䴘 カイツブリ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: /_static/birds/grebe_20241221.jpg
+.. image:: /_static/birds/grebe_20250109.jpg
 
 Vega gull 织女银鸥 セグロカモメ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: /_static/birds/gull_20241221.jpg
+.. image:: /_static/birds/gull_20250109.JPG
 
 涉禽 Grallatores
 -----------------
@@ -72,6 +87,11 @@ Little egret 小白鹭 コサギ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: /_static/birds/egret_20241221.jpg
+
+Great egret 大白鹭 ダイサギ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /_static/birds/egret_20250111.JPG
 
 Grey heron 苍鹭 アオサギ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -94,6 +114,11 @@ Common sandpiper 矶鹬 イソシギ
 
 .. image:: /_static/birds/sandpiper_20241201.JPG
 
+Common snipe 扇尾沙锥 タシギ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /_static/birds/snipe_20250111.JPG
+
 鸣禽 Passeriformes
 -------------------
 
@@ -111,6 +136,32 @@ Great tit 大山雀 シジュウカラ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: /_static/birds/tit_20241221.jpg
+
+Long-tailed tit 北长尾山雀 エナガ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /_static/birds/longtail_tit_20250111.JPG
+
+.. image:: /_static/birds/longtail_tit2_20250111.JPG
+
+.. image:: /_static/birds/longtail_tit3_20250111.JPG
+
+Varied tit 杂色山雀 ヤマガラ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /_static/birds/varied_tit_20250111.JPG
+
+.. image:: /_static/birds/varied_tit2_20250111.JPG
+
+White wagtail 白鹡鸰 タイリクハクセキレイ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /_static/birds/wagtail_20250109.JPG
+
+Japanese wagtail 日本鹡鸰 セグロセキレイ
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /_static/birds/wagtail_20250111.JPG
 
 Brown-eared bulbul 栗耳短脚鹎 ヒヨドリ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -161,7 +212,7 @@ Rock dove 原鸽 カワラバト
 Oriental turtle dove 山斑鸠 キジバト
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: /_static/birds/turtle_dove_20241221.jpg
+.. image:: /_static/birds/turtle_dove_20250111.jpg
 
 猛禽 Raptors
 -------------
@@ -170,3 +221,13 @@ Osprey 鹗 ミサゴ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: /_static/birds/osprey_20241201.JPG
+
+Updates
+---------
+
+.. update:: 2025-01-11
+
+    newly added: 斑背潜鸭 琵嘴鸭 红头潜鸭x白眼潜鸭 (杂交) 大白鹭 扇尾沙锥 
+    北长尾山雀 杂色山雀 白鹡鸰 日本鹡鸰
+
+    photo update: 小䴙䴘 织女银鸥 山斑鸠
